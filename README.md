@@ -12,6 +12,9 @@ Envision is an AI application that can be deployed on micro-controllers e.g. Ras
 - Object Detection
 - Text-to-speech
 
+## Methodology
+<img width="491" alt="image" src="https://github.com/salman1919/Envision-AI_Glasses/assets/57316895/37d32f83-2f94-44af-9f34-de4473b9fa47">
+
 
 ## Tech
 
